@@ -3,7 +3,7 @@ var girls = ["Janne", "hanne", "Sanne"];
 
 var all = boys.concat(girls);
 
-var commaString = all.join(",");  //toString is already this I think
+var commaString = all.join(",");
 var hyphenString = all.join("-");
 
 all.push("Lone", "Gitte");
